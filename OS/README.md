@@ -15,3 +15,27 @@
   - CPU 스케줄링
   - 메모리 관리
   - 디스크 스케줄링
+<br></br>
+
+
+## 2강 컴퓨터 시스템 구조
+[전체 내용 보기](https://jeong9216.tistory.com/315)
+- 컴퓨터시스템 구조
+  - CPU
+  - Memory
+  - Mode Bit
+  - Register
+  - Timer
+  - I/O Device
+  - Device Controller
+  - DMA Controller
+- Interrupt
+  - Inturrupt 분류
+  - Inturrupt 제어권
+  - Inturrupt 처리
+  - Inturrupt 처리 루틴
+- I/O 방식
+  - 동기식 입출력(Synchronous I/O)
+  - 비동기식 입출력(Asynchronous I/O)
+- 저장 장치 계층 구조
+- 프로그램 실행(Memory Load)  
