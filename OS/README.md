@@ -39,3 +39,16 @@
   - 비동기식 입출력(Asynchronous I/O)
 - 저장 장치 계층 구조
 - 프로그램 실행(Memory Load)  
+
+## 3강 프로세스 (Process)
+[전체 내용 보기](https://jeong9216.tistory.com/407)
+- 프로세스 (Process)란?
+- 프로세스 상태 - 1
+- PCB (Process Control Block)
+- Context Switching
+- 프로세스 스케줄을 위한 Queue
+- 스케줄러 (Scheduler)
+  - Long-term 스케줄러 (장기 스케줄러, Job 스케줄러)
+  - Short-term 스케줄러 (단기 스케줄러, CPU 스케줄러)
+  - Medium-term 스케줄러 (중기 스케줄러, Swapper)
+- 프로세스 상태 - 2
